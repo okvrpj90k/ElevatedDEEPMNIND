@@ -1,0 +1,7 @@
+{
+  "name": "Elevated DeepMind",
+  "description": "A premium, AI-powered study assistant using Gemini 3 for deep reasoning, material-grounded tutoring, and real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
